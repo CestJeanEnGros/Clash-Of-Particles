@@ -8,6 +8,29 @@ You can find two implementation :
 
 On top of that there is a script which calculate an approximation of PI in link with the number of collisions between 2 particles. (See [this video by 3Blue1Brown](https://www.youtube.com/watch?v=HEfHFsfGXjs)).
 
+## Visualisation 
+
+<div align="center" style="display: flex; gap: 10px;">
+
+  <figure style="display: inline-block; text-align: center;">
+    <img src="img/naive-100" width="200"/>
+    <figcaption>Naive simulation for 100 particles</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; text-align: center;">
+    <img src="img/naive-500" width="200"/>
+    <figcaption>Naive simulation for 500 particles</figcaption>
+  </figure>
+
+  <figure style="display: inline-block; text-align: center;">
+    <img src="img/naive-1000" width="200"/>
+    <figcaption>Naive simulation for 1000 particles</figcaption>
+  </figure>
+
+</div>
+
+
+
 ## Commands
 
 To compile the files:
