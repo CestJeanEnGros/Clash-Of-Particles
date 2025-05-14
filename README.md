@@ -23,12 +23,30 @@ On top of that there is a script which calculate an approximation of PI in link 
       </td>
       <td align="center">
         <img src="img/naive-1000.gif" width="300"/><br/>
-        <b>Naive simulation for 100 particles0</b>
+        <b>Naive simulation for 1000 particles0</b>
       </td>
     </tr>
   </table>
 </p>
 
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="img/bh-100.gif" width="300"/><br/>
+        <b>Binary heap simulation for 100 particles</b>
+      </td>
+      <td align="center">
+        <img src="img/bh-1000.gif" width="300"/><br/>
+        <b>Binary heap simulation for 1000 particles</b>
+      </td>
+      <td align="center">
+        <img src="img/bh-2000.gif" width="300"/><br/>
+        <b>Binary heap simulation for 2000 particles0</b>
+      </td>
+    </tr>
+  </table>
+</p>
 
 
 
