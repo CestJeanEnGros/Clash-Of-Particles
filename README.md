@@ -1,13 +1,12 @@
-# ISAE-Supaero - IN101 Project
+# ISAE-Supaero - IN101 Project : Clash of Particles
 
+Here is a basic implementation of particles movement and elastic collisions within a confined box.
 
- Basic implementation of a simulation of the movement of particles confined in a box. 
+You can find two implementation :
+* A naive implmentation of the collisions management.
+* A more complex implementation using a binary heap data structures in order to reduce the complexity and thus improve performances for a larger numbers of particles.
 
- Two implementations are available: 
- * A naive implementation of the management of collisions between particles.
- * An implementation using a binary heap data structure to reduce the complexity of the algorithm and improve performance on the latest test files.
-
-A script is also available for calculating an approximation of pi using the number of collisions between 2 particles. (See [this video by 3Blue1Brown](https://www.youtube.com/watch?v=HEfHFsfGXjs)).
+On top of that there is a script which calculate an approximation of PI in link with the number of collisions between 2 particles. (See [this video by 3Blue1Brown](https://www.youtube.com/watch?v=HEfHFsfGXjs)).
 
 ## Commands
 
