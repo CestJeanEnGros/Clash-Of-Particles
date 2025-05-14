@@ -14,16 +14,16 @@ On top of that there is a script which calculate an approximation of PI in link 
   <table>
     <tr>
       <td align="center">
-        <img src="img/naive-100.gif" width="200"/><br/>
-        <b>GIF 1 : Description</b>
+        <img src="img/naive-100.gif" width="300"/><br/>
+        <b>Naive simulation for 100 particles</b>
       </td>
       <td align="center">
-        <img src="img/naive-100.gif" width="200"/><br/>
-        <b>GIF 2 : Description</b>
+        <img src="img/naive-500.gif" width="300"/><br/>
+        <b>Naive simulation for 500 particles</b>
       </td>
       <td align="center">
-        <img src="img/naive-100.gif" width="200"/><br/>
-        <b>GIF 3 : Description</b>
+        <img src="img/naive-1000.gif" width="300"/><br/>
+        <b>Naive simulation for 100 particles0</b>
       </td>
     </tr>
   </table>
